@@ -51,54 +51,54 @@ The following commercial platforms provide hosted infrastructure, automated mode
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source ecosystem provides powerful self-hosted AutoML libraries, declarative low-code frameworks, and interactive visual pipeline software. Repositories below are sorted by GitHub Star Count (descending): ⭐
+The open-source ecosystem provides powerful self-hosted AutoML libraries, declarative low-code frameworks, and interactive visual pipeline software. Repositories below are sorted by GitHub Stars_Count (descending): ⭐
 
-- **[ludwig](https://github.com/ludwig-ai/ludwig)** [![GitHub stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social)](https://github.com/ludwig-ai/ludwig/stargazers)  
+- **[ludwig](https://github.com/ludwig-ai/ludwig)** [![GitHub_Stars](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social)](https://github.com/ludwig-ai/ludwig/stargazers)  
   📦 Declarative low-code framework for building custom LLMs, neural networks, and ML models via YAML configuration files.
 
-- **[autogluon](https://github.com/autogluon/autogluon)** [![GitHub stars](https://img.shields.io/github/stars/autogluon/autogluon?style=social)](https://github.com/autogluon/autogluon/stargazers)  
+- **[autogluon](https://github.com/autogluon/autogluon)** [![GitHub_Stars](https://img.shields.io/github/stars/autogluon/autogluon?style=social)](https://github.com/autogluon/autogluon/stargazers)  
   ⚡ AWS open-source AutoML toolkit for automated deep learning on tabular, image, text, and time-series data with minimal code.
 
-- **[tpot](https://github.com/EpistasisLab/tpot)** [![GitHub stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=social)](https://github.com/EpistasisLab/tpot/stargazers)  
+- **[tpot](https://github.com/EpistasisLab/tpot)** [![GitHub_Stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=social)](https://github.com/EpistasisLab/tpot/stargazers)  
   🧬 Automated Machine Learning tool in Python that optimizes ML pipelines using genetic programming.
 
-- **[pycaret](https://github.com/pycaret/pycaret)** [![GitHub stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social)](https://github.com/pycaret/pycaret/stargazers)  
+- **[pycaret](https://github.com/pycaret/pycaret)** [![GitHub_Stars](https://img.shields.io/github/stars/pycaret/pycaret?style=social)](https://github.com/pycaret/pycaret/stargazers)  
   🪄 Open-source, low-code machine learning library in Python that automates model training, tuning, evaluation, and deployment.
 
-- **[autokeras](https://github.com/keras-team/autokeras)** [![GitHub stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social)](https://github.com/keras-team/autokeras/stargazers)  
+- **[autokeras](https://github.com/keras-team/autokeras)** [![GitHub_Stars](https://img.shields.io/github/stars/keras-team/autokeras?style=social)](https://github.com/keras-team/autokeras/stargazers)  
   🧠 AutoML library based on Keras for automated deep learning search across vision, text, and tabular domains.
 
-- **[featuretools](https://github.com/alteryx/featuretools)** [![GitHub stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social)](https://github.com/alteryx/featuretools/stargazers)  
+- **[featuretools](https://github.com/alteryx/featuretools)** [![GitHub_Stars](https://img.shields.io/github/stars/alteryx/featuretools?style=social)](https://github.com/alteryx/featuretools/stargazers)  
   🛠️ Open-source python library for automated feature engineering from relational and transactional datasets.
 
-- **[h2o-3](https://github.com/h2oai/h2o-3)** [![GitHub stars](https://img.shields.io/github/stars/h2oai/h2o-3?style=social)](https://github.com/h2oai/h2o-3/stargazers)  
+- **[h2o-3](https://github.com/h2oai/h2o-3)** [![GitHub_Stars](https://img.shields.io/github/stars/h2oai/h2o-3?style=social)](https://github.com/h2oai/h2o-3/stargazers)  
   💧 Open-source, distributed, fast, and scalable machine learning platform featuring automated machine learning (H2O AutoML).
 
-- **[orange3](https://github.com/biolab/orange3)** [![GitHub stars](https://img.shields.io/github/stars/biolab/orange3?style=social)](https://github.com/biolab/orange3/stargazers)  
+- **[orange3](https://github.com/biolab/orange3)** [![GitHub_Stars](https://img.shields.io/github/stars/biolab/orange3?style=social)](https://github.com/biolab/orange3/stargazers)  
   🍊 Interactive component-based visual programming GUI software for data mining, data visualization, and machine learning.
 
-- **[mljar-supervised](https://github.com/mljar/mljar-supervised)** [![GitHub stars](https://img.shields.io/github/stars/mljar/mljar-supervised?style=social)](https://github.com/mljar/mljar-supervised/stargazers)  
+- **[mljar-supervised](https://github.com/mljar/mljar-supervised)** [![GitHub_Stars](https://img.shields.io/github/stars/mljar/mljar-supervised?style=social)](https://github.com/mljar/mljar-supervised/stargazers)  
   📝 Python package for AutoML on tabular data featuring automated feature engineering, hyperparameter tuning, explainability, and markdown report generation.
 
-- **[MLBox](https://github.com/AxeldeRomblay/MLBox)** [![GitHub stars](https://img.shields.io/github/stars/AxeldeRomblay/MLBox?style=social)](https://github.com/AxeldeRomblay/MLBox/stargazers)  
+- **[MLBox](https://github.com/AxeldeRomblay/MLBox)** [![GitHub_Stars](https://img.shields.io/github/stars/AxeldeRomblay/MLBox?style=social)](https://github.com/AxeldeRomblay/MLBox/stargazers)  
   🧰 Powerful automated machine learning python library for data preprocessing, feature selection, and hyperparameter optimization.
 
-- **[LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)** [![GitHub stars](https://img.shields.io/github/stars/sberbank-ai-lab/LightAutoML?style=social)](https://github.com/sberbank-ai-lab/LightAutoML/stargazers)  
+- **[LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)** [![GitHub_Stars](https://img.shields.io/github/stars/sberbank-ai-lab/LightAutoML?style=social)](https://github.com/sberbank-ai-lab/LightAutoML/stargazers)  
   💡 Lightweight framework for automatic model creation, tabular AutoML, and end-to-end pipeline optimization.
 
-- **[evalml](https://github.com/alteryx/evalml)** [![GitHub stars](https://img.shields.io/github/stars/alteryx/evalml?style=social)](https://github.com/alteryx/evalml/stargazers)  
+- **[evalml](https://github.com/alteryx/evalml)** [![GitHub_Stars](https://img.shields.io/github/stars/alteryx/evalml?style=social)](https://github.com/alteryx/evalml/stargazers)  
   📈 Domain-agnostic AutoML library written in Python for automated model construction, validation, and domain-specific evaluation.
 
-- **[Auto_ViML](https://github.com/AutoViML/Auto_ViML)** [![GitHub stars](https://img.shields.io/github/stars/AutoViML/Auto_ViML?style=social)](https://github.com/AutoViML/Auto_ViML/stargazers)  
+- **[Auto_ViML](https://github.com/AutoViML/Auto_ViML)** [![GitHub_Stars](https://img.shields.io/github/stars/AutoViML/Auto_ViML?style=social)](https://github.com/AutoViML/Auto_ViML/stargazers)  
   🔮 Automatically build multiple machine learning models with a single line of code, including automatic feature selection and visualization.
 
-- **[rapidminer-studio](https://github.com/rapidminer/rapidminer-studio)** [![GitHub stars](https://img.shields.io/github/stars/rapidminer/rapidminer-studio?style=social)](https://github.com/rapidminer/rapidminer-studio/stargazers)  
+- **[rapidminer-studio](https://github.com/rapidminer/rapidminer-studio)** [![GitHub_Stars](https://img.shields.io/github/stars/rapidminer/rapidminer-studio?style=social)](https://github.com/rapidminer/rapidminer-studio/stargazers)  
   ⚙️ Visual workflow engine for drag-and-drop machine learning, predictive modeling, and data science pipeline design.
 
-- **[Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt)** [![GitHub stars](https://img.shields.io/github/stars/rodrigo-arenas/Sklearn-genetic-opt?style=social)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/stargazers)  
+- **[Sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt)** [![GitHub_Stars](https://img.shields.io/github/stars/rodrigo-arenas/Sklearn-genetic-opt?style=social)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/stargazers)  
   🧬 Hyperparameter optimization using genetic algorithms for Scikit-Learn machine learning estimators.
 
-- **[zero2neuro](https://github.com/Symbiotic-Computing-Laboratory/zero2neuro)** [![GitHub stars](https://img.shields.io/github/stars/Symbiotic-Computing-Laboratory/zero2neuro?style=social)](https://github.com/Symbiotic-Computing-Laboratory/zero2neuro/stargazers)  
+- **[zero2neuro](https://github.com/Symbiotic-Computing-Laboratory/zero2neuro)** [![GitHub_Stars](https://img.shields.io/github/stars/Symbiotic-Computing-Laboratory/zero2neuro?style=social)](https://github.com/Symbiotic-Computing-Laboratory/zero2neuro/stargazers)  
   🖥️ Open-source zero-code graphical user interface (GUI) toolbox for constructing, training, and evaluating deep neural networks (DNNs, CNNs, U-Nets).
 
 - **[SwiftPredict-v2](https://pypi.org/project/swiftpredict-v2/)**  
@@ -124,7 +124,7 @@ Contributions are warmly welcomed to keep this repository up-to-date and compreh
 
 1. **Fork** 🍴 the repository on GitHub.
 2. Add or update entries in `README.md` following the established formatting guidelines.
-3. Ensure open-source additions include valid GitHub repositories with star count badges linked to stargazers pages.
+3. Ensure open-source additions include valid GitHub repositories with Stars_Count badges linked to stargazers pages.
 4. Submit a **Pull Request (PR)** 📥 with a clear title and description.
 
 ---
